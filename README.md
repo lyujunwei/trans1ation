@@ -1,1 +1,175 @@
 # trans1ation
+##methods
+1. 使用原截图（根据实际情况使用自制截图+图床+链接？）
+2. 每篇内超链接部分应保留原文，以便在最后制作成epub或mobi或pdf文档时方便找到相应的跳转段落。
+3. 为保证前后文术语统一，建议从第39篇Glossary开始
+
+##Table of Contents
+
+- 1. Overview
+- 2. What’s New
+- 3. Features
+- 4. Purchase
+- 5. Screenshots
+- 6. Tour
+- 7. Links
+- 8. Quick Start
+- 9. How do I ...?
+	- How do I install Keyboard Maestro?
+	- How do I upgrade Keyboard Maestro?
+	- How do I purchase Keyboard Maestro?
+	- Can I purchase Keyboard Maestro from the Mac App Store?
+	- How do I register Keyboard Maestro?
+	- How do I get started?
+	- How do I create a new Macro?
+	- How do I find a Macro I've used or modified recently?
+	- How do I cancel a running Macro?
+	- How can I get the mouse coordinates on the screen or in a window?
+	- How do I insert styled/colored text or images?
+	- How do I Insert the current date?
+	- How do I get more than one Macro Palette?
+	- How do I use a multiple keystroke trigger?
+	- How do I configure the Application Switcher?
+	- How do I uninstall Keyboard Maestro?
+	- How do I revert to a previous version of Keyboard Maestro?
+- 10. Macro Groups
+- 11. Macros
+- 12. Macro Triggers
+	- Overview
+	- Hot Key
+	- Typed String
+	- Application
+	- Login
+	- Engine Launch
+	- System Wake
+	- Time
+	- While Logged In
+	- Macro Palette
+	- Status Menu
+	- Public Web
+	- Mounted Volume
+	- USB Device
+	- Wireless Network
+	- Device Key
+	- MIDI Note
+	- By Script
+- 13. Macro Actions
+	- Overview
+	- Application Control
+	- Clipboard Actions
+	- Control Flow Actions
+	- Debugger Actions
+	- Mail Control Actions
+	- Execute Actions
+	- File Actions
+	- Safari and Google Chrome Actions
+	- Image Actions
+	- Interface Control
+	- iTunes Control
+	- Keyboard Maestro Actions
+	- MIDI Actions
+	- Notification Actions
+	- Open Actions
+	- QuickTime Player Control
+	- Switcher Actions
+	- System Control
+	- Text Actions
+	- Variable Actions
+	- Prompt For User Input Action
+	- Web Actions
+- 14. Macro Syncing
+- 15. Macro Debugger
+- 16. Variables
+- 17. Filters
+- 18. Text Tokens
+- 19. Calculations
+- 20. Conditions
+- 21. Recording
+- 22. Macro Library
+- 23. Macro Examples
+	- Launch Your Most Used Applications
+	- Open Your Most Used Documents
+	- Insert Text Templates
+	- Use Hot Keys to Open Financial Accounts
+	- Use Hot Keys to Connect to SSH or FTP sites
+	- Simulate Bookmarks
+	- Remap Command Keys
+	- Simulate Missing Features
+	- Swap Characters
+	- Save a Text Clipping
+	- Delayed Click
+	- Insert Boilerplate Text
+	- Apply Text Conversions
+	- Simulate Workspaces
+	- Setup an Application When Launched
+	- Clean Up After Using an Application
+	- Launch Scanner Application When Scanner is Connected
+	- Switch Network Location When You Connect
+	- Feedback During Macro Execution
+	- Rakesh Kumar’s PC Switcher’s Pack
+- 24. Icon Chooser
+- 25. Application Launcher
+- 26. Application Switcher
+- 27. Window Switcher
+- 28. Clipboard Switcher
+- 29. Clipboard History Switcher
+- 30. Preferences
+	- General Preferences
+	- Web Server Preferences
+	- Clipboards Preferences
+	- Variables Preferences
+	- Excluded Preferences
+	- Other Hidden Preferences
+- 31. Scripting
+	- Executing Scripts
+	- Controlling Keyboard Maestro via Scripting
+	- Enhancing AppleScript
+	- The keyboardmaestro URL Scheme
+- 32. Status Menu Icons
+- 33. Plug In Actions
+- 34. Windows
+	- Welcome Window
+	- Macros Window
+	- Tutorial
+	- Macro Group Editor
+	- Macro Editor Window
+	- Macro Library Window
+	- Icon Chooser Window
+	- Recording Window
+	- Macro Debugger
+	- Conflict Palette
+	- Trigger Macro by Name
+	- Application Launcher Window
+	- Application Switcher Window
+	- Window Switcher Window
+	- Clipboard Switcher Window
+	- Clipboard History Switcher Window
+	- Preferences Window
+	- Preferences General Pane
+	- Preferences Web Server Pane
+	- Preferences Variables Pane
+	- Preferences Clipboards Pane
+	- Preferences Exclude Pane
+	- About Window Pane
+- 35. Menus
+	- Keyboard Maestro
+	- File
+	- Edit
+	- View
+	- Window
+	- Help
+	- Status Menu
+- 36. Tips
+- 37. Troubleshooting
+- 38. Support
+- 39. Glossary
+- 40. Administrative Details
+	- Requirements
+	- Distribution
+	- History
+	- Credits
+	- Warranty
+	- Licenses
+	- Fine Print
+
+
